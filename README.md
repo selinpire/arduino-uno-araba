@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/poster.jpeg" alt="4. MTD Araba Yarışmaları" width="850">
-</p>
 
 # 🏆 MTD Araba Yarışmaları 
 
@@ -42,3 +39,8 @@ Bu depo, yarışmada kullanılan nihai yazılımı arşivlemek, proje geliştirm
 **🥈 4. MTD Araba Yarışmaları**
 **2. Kategori – Futbol Maçı Yapan Arabalar**
 **2.'lik Derecesi**
+
+<p align="center">
+  <img src="images/poster.jpeg" alt="4. MTD Araba Yarışmaları" width="850">
+</p>
+
